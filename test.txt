@@ -1,2 +1,2 @@
-ahora otra conflicto
+ahora otro conflicto para probar merge
 esto es para no hacer una modificacion
