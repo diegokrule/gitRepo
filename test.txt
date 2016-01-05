@@ -1,2 +1,2 @@
-ahora otra cosa
+ahora otra conflicto
 esto es para no hacer una modificacion
